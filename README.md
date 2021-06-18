@@ -1,6 +1,6 @@
 # The function of adult male chimpanzee social bonds
 <b>Authors:</b> Joel Bray, Joseph T. Feldblum, & Ian C. Gilby
 
-<b>Title:</b> With a little help from their friends: adaptive benefits of social bonds in adult male chimpanzees
+<b>Title:</b> Social bonds predict dominance trajectories in adult male chimpanzees
 
-<b>Journal:</b> Under review
+<b>Journal:</b> Animal Behaviour
